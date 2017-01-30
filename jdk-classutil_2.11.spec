@@ -1,6 +1,6 @@
 Name     : jdk-classutil_2.11
 Version  : 1.0.6
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/clapper/classutil_2.11/1.0.6/classutil_2.11-1.0.6.jar
 Source0  : http://repo2.maven.org/maven2/org/clapper/classutil_2.11/1.0.6/classutil_2.11-1.0.6.jar
 Source1  : http://repo2.maven.org/maven2/org/clapper/classutil_2.11/1.0.6/classutil_2.11-1.0.6.pom
